@@ -5,3 +5,5 @@ enum SeatChoice {
   BER,
   ANA
 }
+
+const frederico = SeatChoice.FRED
